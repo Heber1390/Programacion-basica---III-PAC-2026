@@ -89,4 +89,4 @@ int main()
     default:
         cout << "Tipo de empleado no valido" << endl;
     }
-}
+} return 0;

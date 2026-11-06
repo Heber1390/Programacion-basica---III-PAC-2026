@@ -1,4 +1,4 @@
-/* estudiaremos los diferentes tipos de datos en C++   */
+/* estudiaremos los diferentes tipos de datos en C++  */
 
 #include <iostream>
 #include <string>
@@ -12,11 +12,11 @@ int main()
     double recorridoEstudiante = 3.14159;       // Doble precisión
     char sexoEstudiante = 'F';                  // Carácter
     bool estudianteActivo = true;               // Booleano
-    short int numeroCorto = 32767;              // Entero corto
-    long int numeroLargo = 9223372036854775807; // Entero largo
-    long long int numeroMuyLargo = 20101000245; // Entero muy largo
-    signed int numeroPositivo = 4294967295;     // Entero sin signo
-    unsigned int numeroNegativo = -1;           // Entero con signo
+short int numeroCorto = 32767;
+long int numeroLargo = 2147483647L;
+long long int numeroMuyLargo = 9223372036854775807LL;
+unsigned int numeroPositivo = 4294967295U;
+signed int numeroNegativo = -1;
     string nombreEstudiante = "Juan Perez";     // Cadena de caracteres
 
     // Mostrar los valores en consola

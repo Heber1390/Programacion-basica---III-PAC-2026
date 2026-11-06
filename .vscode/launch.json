@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "externalConsole": true,
       "cwd": "c:/Users/heber/OneDrive/Desktop/Programacion basica - III PAC 2026/01_Bibliotecas",
-      "program": "c:/Users/heber/OneDrive/Desktop/Programacion basica - III PAC 2026/01_Bibliotecas/build/Release/outRelease",
+      "program": "c:/Users/heber/OneDrive/Desktop/Programacion basica - III PAC 2026/01_Bibliotecas/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
